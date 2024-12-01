@@ -2,12 +2,12 @@ body {
   margin: 0;
   padding: 20px;
   font-family: "Montserrat", sans-serif;
-  background-color: #f7f7f7;
+  background-color: #080000;
 }
 
 .container {
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: rgb(240, 237, 237);
+  box-shadow: 0 0 10px rgba(243, 241, 241, 0.2);
   padding: 20px;
   max-width: 600px;
   margin: 0 auto;
